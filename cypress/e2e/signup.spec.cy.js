@@ -1,5 +1,4 @@
 /// <reference types="Cypress" />
-
 describe('Registrace', () => {
 
     it('Navigates to Registrace and checks email input field validation', () => {

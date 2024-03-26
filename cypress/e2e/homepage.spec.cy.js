@@ -1,5 +1,4 @@
 /// <reference types="Cypress" />
-
 describe('Stosuj homepage', () => {
   it('Visits stosuj.cz and checks main navigation', () => {
     cy.visit('/')
